@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Jacob Burenstam']
   spec.email         = ['burenstam@gmail.com']
   spec.summary       = %q{Open Rails web-console by adding ?web_console=1 to any page.}
-  spec.description   = %q{Open web-console by adding ?web_console=1 to any page. You could implement this yourself in a couple of lines, but if you're really lazy.. go ahead and use this gem.}
+  spec.description   = %q{Open Rails web-console by adding ?web_console=1 to any page. You could implement this yourself in a couple of lines, but if you're really lazy.. go ahead and use this gem.}
   spec.homepage      = 'https://github.com/buren/web-console-param'
   spec.license       = 'MIT'
 
