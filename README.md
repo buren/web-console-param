@@ -20,7 +20,7 @@ And then execute:
 
 ## Usage
 
-There is now other setup required besides adding the gem to your Gemfile. It will automatically add a `before_action` to anything that inherits from `ActionController::Base`.
+There is no other setup required besides adding the gem to your Gemfile. It will automatically add a `before_action` to anything that inherits from `ActionController::Base`.
 
 ## Contributing
 
